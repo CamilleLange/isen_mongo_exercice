@@ -1,0 +1,1202 @@
+[
+	{
+		"created_at": "2025-09-13T18:33:10.29491+02:00",
+		"description": "Migrate part of the codebase to a new framework/library",
+		"due_date": "2025-10-01T18:33:10.29491+02:00",
+		"is_completed": true,
+		"priority": 3,
+		"tags": [
+			"Documentation"
+		],
+		"updated_at": "2025-09-25T06:29:32.124058889+02:00",
+		"uuid": "0f34d279-02b2-4b7b-9478-60765012998e"
+	},
+	{
+		"created_at": "2025-09-21T18:33:10.29491+02:00",
+		"description": "Run automated tests and analyze results",
+		"due_date": "2025-10-12T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-10-01T19:27:01.040759021+02:00",
+		"uuid": "e47e92cb-f152-4f29-804b-9f33234451ef"
+	},
+	{
+		"created_at": "2025-09-13T18:33:10.29491+02:00",
+		"description": "Run automated tests and analyze results",
+		"due_date": "2025-10-23T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Collaboration"
+		],
+		"updated_at": "2025-09-19T13:29:23.347845025+02:00",
+		"uuid": "2cdaedfa-030f-4789-bcf4-ab0076d0ec36"
+	},
+	{
+		"created_at": "2025-09-28T18:33:10.29491+02:00",
+		"description": "Write unit tests for a new function",
+		"due_date": "2025-09-29T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-10-01T08:23:15.732626337+02:00",
+		"uuid": "2e472051-8984-4df8-b294-346232c7d98b"
+	},
+	{
+		"created_at": "2025-09-18T18:33:10.29491+02:00",
+		"description": "Perform a code review for a colleague",
+		"due_date": "2025-10-09T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-21T21:31:57.174620174+02:00",
+		"uuid": "453f1f5a-d96b-422e-ae3e-462aab90a100"
+	},
+	{
+		"created_at": "2025-09-29T18:33:10.29491+02:00",
+		"description": "Set up integration tests for a service",
+		"due_date": "2025-11-07T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-10-01T11:04:21.060384917+02:00",
+		"uuid": "4116ad27-8f46-4c75-814a-0c0fa9aa6fab"
+	},
+	{
+		"created_at": "2025-09-18T18:33:10.29491+02:00",
+		"description": "Participate in sprint planning",
+		"due_date": "2025-10-19T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-29T20:56:07.675554687+02:00",
+		"uuid": "415fd1a1-fbe0-4223-b106-8510e15fe6fb"
+	},
+	{
+		"created_at": "2025-09-07T18:33:10.29491+02:00",
+		"description": "Document a technical decision in the internal wiki",
+		"due_date": "2025-11-04T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Documentation"
+		],
+		"updated_at": "2025-09-14T17:15:55.706394105+02:00",
+		"uuid": "c522f71b-e1bb-44c4-912e-da3021d26995"
+	},
+	{
+		"created_at": "2025-09-08T18:33:10.29491+02:00",
+		"description": "Review logs to detect recurring errors",
+		"due_date": "2025-10-18T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Documentation"
+		],
+		"updated_at": "2025-09-14T01:37:41.897978121+02:00",
+		"uuid": "69fde057-421d-4f42-b7af-ddcd115f574c"
+	},
+	{
+		"created_at": "2025-09-05T18:33:10.29491+02:00",
+		"description": "Add error handling in a critical function",
+		"due_date": "2025-11-02T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Documentation"
+		],
+		"updated_at": "2025-09-12T17:27:27.573905669+02:00",
+		"uuid": "5a00f793-0e1e-437a-8eda-d8fcbadb8d53"
+	},
+	{
+		"created_at": "2025-10-02T18:33:10.29491+02:00",
+		"description": "Set up integration tests for a service",
+		"due_date": "2025-10-06T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-10-02T18:33:10.29491+02:00",
+		"uuid": "8dcb153b-b8c2-432c-9976-88246ea72d60"
+	},
+	{
+		"created_at": "2025-09-25T18:33:10.29491+02:00",
+		"description": "Run automated tests and analyze results",
+		"due_date": "2025-11-09T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Documentation"
+		],
+		"updated_at": "2025-09-26T07:01:37.846700102+02:00",
+		"uuid": "f089fa3c-44be-4520-983a-6a58708e36d6"
+	},
+	{
+		"created_at": "2025-09-27T18:33:10.29491+02:00",
+		"description": "Configure a CI/CD pipeline for automatic deployment",
+		"due_date": "2025-11-23T18:33:10.29491+01:00",
+		"is_completed": true,
+		"priority": 2,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-10-02T00:56:39.919281817+02:00",
+		"uuid": "c0266933-817c-4bed-8458-af63d6b8a983"
+	},
+	{
+		"created_at": "2025-09-05T18:33:10.29491+02:00",
+		"description": "Migrate part of the codebase to a new framework/library",
+		"due_date": "2025-09-08T18:33:10.29491+02:00",
+		"is_completed": true,
+		"priority": 2,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-25T00:06:13.172317161+02:00",
+		"uuid": "7c73858d-93b6-4bfe-9406-f4303af7c000"
+	},
+	{
+		"created_at": "2025-09-06T18:33:10.29491+02:00",
+		"description": "Apply a critical security patch",
+		"due_date": "2025-10-20T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-09-25T07:25:53.700690155+02:00",
+		"uuid": "5eae6b78-3c37-463c-bfe9-ddae84cf4cd2"
+	},
+	{
+		"created_at": "2025-09-11T18:33:10.29491+02:00",
+		"description": "Perform load/performance tests on an API",
+		"due_date": "2025-11-08T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-22T06:54:16.750835028+02:00",
+		"uuid": "d11622e2-7359-4872-b0c1-f4f3868de8fd"
+	},
+	{
+		"created_at": "2025-09-09T18:33:10.29491+02:00",
+		"description": "Prepare a demo for a new feature",
+		"due_date": "2025-09-19T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Documentation"
+		],
+		"updated_at": "2025-09-30T17:18:16.720362858+02:00",
+		"uuid": "5028beca-8d70-4c08-802f-9a2b75a414c0"
+	},
+	{
+		"created_at": "2025-09-18T18:33:10.29491+02:00",
+		"description": "Optimize a slow SQL query",
+		"due_date": "2025-11-11T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-21T02:39:10.461628438+02:00",
+		"uuid": "7d8947a0-e303-4f54-8237-b4a476d0d2ed"
+	},
+	{
+		"created_at": "2025-09-21T18:33:10.29491+02:00",
+		"description": "Update user-facing documentation",
+		"due_date": "2025-10-19T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Documentation"
+		],
+		"updated_at": "2025-09-30T08:43:35.332768268+02:00",
+		"uuid": "1e521578-992c-4291-89e5-5824e68ea32e"
+	},
+	{
+		"created_at": "2025-09-28T18:33:10.29491+02:00",
+		"description": "Configure a CI/CD pipeline for automatic deployment",
+		"due_date": "2025-11-02T18:33:10.29491+01:00",
+		"is_completed": true,
+		"priority": 3,
+		"tags": [
+			"Collaboration"
+		],
+		"updated_at": "2025-10-01T11:05:09.750266782+02:00",
+		"uuid": "996fb93e-ae19-45c3-b3b1-da15ba9561bd"
+	},
+	{
+		"created_at": "2025-09-22T18:33:10.29491+02:00",
+		"description": "Perform a code review for a colleague",
+		"due_date": "2025-11-02T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Documentation"
+		],
+		"updated_at": "2025-09-30T19:12:23.94181106+02:00",
+		"uuid": "54ebfbdf-5788-4444-bf40-1d09341360ce"
+	},
+	{
+		"created_at": "2025-09-16T18:33:10.29491+02:00",
+		"description": "Implement a new feature according to specifications",
+		"due_date": "2025-09-28T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Collaboration"
+		],
+		"updated_at": "2025-09-25T18:42:18.598133229+02:00",
+		"uuid": "aef8ed40-8aaa-41c8-ac92-8521363f6b46"
+	},
+	{
+		"created_at": "2025-09-26T18:33:10.29491+02:00",
+		"description": "Participate in sprint planning",
+		"due_date": "2025-10-08T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-29T11:27:20.467978796+02:00",
+		"uuid": "58f0f7dd-7506-4171-b333-00daf0e81462"
+	},
+	{
+		"created_at": "2025-09-20T18:33:10.29491+02:00",
+		"description": "Document a technical decision in the internal wiki",
+		"due_date": "2025-09-26T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-23T06:45:48.020055974+02:00",
+		"uuid": "1e47d6a1-bac0-4922-81c4-941e83db8e9c"
+	},
+	{
+		"created_at": "2025-09-17T18:33:10.29491+02:00",
+		"description": "Refactor a module for readability and maintainability",
+		"due_date": "2025-10-17T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-25T12:29:29.743231402+02:00",
+		"uuid": "b571eca4-907d-43db-9a0b-7e5003f0efad"
+	},
+	{
+		"created_at": "2025-09-16T18:33:10.29491+02:00",
+		"description": "Monitor resource usage (CPU, memory, disk)",
+		"due_date": "2025-10-13T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Collaboration"
+		],
+		"updated_at": "2025-09-20T07:02:08.134612834+02:00",
+		"uuid": "77c5a0da-b0f2-45db-b03d-62e6d8a92079"
+	},
+	{
+		"created_at": "2025-10-01T18:33:10.29491+02:00",
+		"description": "Update a dependency to the latest stable version",
+		"due_date": "2025-10-23T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-10-01T20:30:32.237571105+02:00",
+		"uuid": "8efe4471-6ba9-4228-a652-133b2f17260a"
+	},
+	{
+		"created_at": "2025-10-01T18:33:10.29491+02:00",
+		"description": "Review logs to detect recurring errors",
+		"due_date": "2025-11-15T18:33:10.29491+01:00",
+		"is_completed": true,
+		"priority": 3,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-10-02T05:45:08.077561082+02:00",
+		"uuid": "ca4f5209-3f2b-43cb-bc1f-9d83d6ef4bbf"
+	},
+	{
+		"created_at": "2025-09-18T18:33:10.29491+02:00",
+		"description": "Add input validation for an API",
+		"due_date": "2025-10-01T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Documentation"
+		],
+		"updated_at": "2025-09-19T22:16:31.386773497+02:00",
+		"uuid": "10f19883-0a3e-480e-b191-f173cc7b99b9"
+	},
+	{
+		"created_at": "2025-09-18T18:33:10.29491+02:00",
+		"description": "Document a technical decision in the internal wiki",
+		"due_date": "2025-10-09T18:33:10.29491+02:00",
+		"is_completed": true,
+		"priority": 1,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-25T13:50:09.917321822+02:00",
+		"uuid": "a440fc88-a4ea-4ed4-b436-9f45f9c575b8"
+	},
+	{
+		"created_at": "2025-09-24T18:33:10.29491+02:00",
+		"description": "Set up integration tests for a service",
+		"due_date": "2025-10-22T18:33:10.29491+02:00",
+		"is_completed": true,
+		"priority": 3,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-09-28T13:11:18.713448159+02:00",
+		"uuid": "dd1e13bd-741c-4c01-944e-8d8239816492"
+	},
+	{
+		"created_at": "2025-09-13T18:33:10.29491+02:00",
+		"description": "Answer questions from a teammate",
+		"due_date": "2025-10-28T18:33:10.29491+01:00",
+		"is_completed": true,
+		"priority": 2,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-27T17:30:32.84132984+02:00",
+		"uuid": "547abc41-2feb-447c-92fd-b537fa406957"
+	},
+	{
+		"created_at": "2025-09-20T18:33:10.29491+02:00",
+		"description": "Fix a bug reported in the tracker",
+		"due_date": "2025-11-13T18:33:10.29491+01:00",
+		"is_completed": true,
+		"priority": 2,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-29T17:35:33.714607029+02:00",
+		"uuid": "694b7d91-4aea-4b4a-8234-4ae882942934"
+	},
+	{
+		"created_at": "2025-09-17T18:33:10.29491+02:00",
+		"description": "Optimize a slow SQL query",
+		"due_date": "2025-11-06T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-30T08:58:58.364433239+02:00",
+		"uuid": "1e214f4b-7db6-43a8-8315-a314a094e0f2"
+	},
+	{
+		"created_at": "2025-10-02T18:33:10.29491+02:00",
+		"description": "Prepare a demo for a new feature",
+		"due_date": "2025-12-01T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-10-02T18:33:10.29491+02:00",
+		"uuid": "9bce0f60-9ace-435d-a80c-dde9b801fa91"
+	},
+	{
+		"created_at": "2025-09-17T18:33:10.29491+02:00",
+		"description": "Review logs to detect recurring errors",
+		"due_date": "2025-10-11T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-09-24T23:00:33.328202025+02:00",
+		"uuid": "27bf89e5-0e9a-4dd8-8b6d-5559d3366821"
+	},
+	{
+		"created_at": "2025-09-06T18:33:10.29491+02:00",
+		"description": "Optimize a slow SQL query",
+		"due_date": "2025-10-28T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Documentation"
+		],
+		"updated_at": "2025-09-11T01:23:08.580232643+02:00",
+		"uuid": "c1f78486-bee4-4475-a1a6-19ee27bd9ec4"
+	},
+	{
+		"created_at": "2025-09-03T18:33:10.29491+02:00",
+		"description": "Prepare a demo for a new feature",
+		"due_date": "2025-09-12T18:33:10.29491+02:00",
+		"is_completed": true,
+		"priority": 2,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-21T13:15:59.22977211+02:00",
+		"uuid": "a7395b05-62c8-4af1-a52e-9d31ae615588"
+	},
+	{
+		"created_at": "2025-09-13T18:33:10.29491+02:00",
+		"description": "Document a technical decision in the internal wiki",
+		"due_date": "2025-10-17T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-09-21T20:45:52.036814236+02:00",
+		"uuid": "cf8793d3-390a-4adf-8c54-736c4674f872"
+	},
+	{
+		"created_at": "2025-09-22T18:33:10.29491+02:00",
+		"description": "Update user-facing documentation",
+		"due_date": "2025-11-02T18:33:10.29491+01:00",
+		"is_completed": true,
+		"priority": 2,
+		"tags": [
+			"Documentation"
+		],
+		"updated_at": "2025-09-22T20:09:28.427277878+02:00",
+		"uuid": "955a792d-fdec-47b4-a65c-548dd8ab902b"
+	},
+	{
+		"created_at": "2025-09-12T18:33:10.29491+02:00",
+		"description": "Add error handling in a critical function",
+		"due_date": "2025-10-09T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-09-15T21:55:29.276319764+02:00",
+		"uuid": "cb93b221-17b9-4c3d-ab29-043d81bc8d15"
+	},
+	{
+		"created_at": "2025-09-14T18:33:10.29491+02:00",
+		"description": "Perform load/performance tests on an API",
+		"due_date": "2025-11-05T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-09-18T14:54:05.806506647+02:00",
+		"uuid": "f9e440f1-3af1-4e6c-bd95-62d4726e4722"
+	},
+	{
+		"created_at": "2025-09-09T18:33:10.29491+02:00",
+		"description": "Write unit tests for a new function",
+		"due_date": "2025-10-01T18:33:10.29491+02:00",
+		"is_completed": true,
+		"priority": 2,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-09-15T08:34:08.805265773+02:00",
+		"uuid": "8f200665-9c50-474d-9b52-0058080dc301"
+	},
+	{
+		"created_at": "2025-09-29T18:33:10.29491+02:00",
+		"description": "Optimize a slow SQL query",
+		"due_date": "2025-10-13T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Documentation"
+		],
+		"updated_at": "2025-10-01T06:22:59.492292636+02:00",
+		"uuid": "78872607-c2ef-40ef-92dd-c2daca13fe2a"
+	},
+	{
+		"created_at": "2025-09-17T18:33:10.29491+02:00",
+		"description": "Fix a bug reported in the tracker",
+		"due_date": "2025-11-04T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-29T12:54:28.389823434+02:00",
+		"uuid": "0469e2c9-8ae3-4364-8ef4-b5f4e6d2ed03"
+	},
+	{
+		"created_at": "2025-09-05T18:33:10.29491+02:00",
+		"description": "Set up integration tests for a service",
+		"due_date": "2025-10-16T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-09T08:43:59.144190197+02:00",
+		"uuid": "987aee99-5154-4d3c-9359-3195dac96a3d"
+	},
+	{
+		"created_at": "2025-09-05T18:33:10.29491+02:00",
+		"description": "Prepare a demo for a new feature",
+		"due_date": "2025-09-26T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Collaboration"
+		],
+		"updated_at": "2025-09-10T04:55:12.587193448+02:00",
+		"uuid": "9b09f238-57c7-4b39-82bc-a49b10c3e06a"
+	},
+	{
+		"created_at": "2025-09-10T18:33:10.29491+02:00",
+		"description": "Add input validation for an API",
+		"due_date": "2025-10-02T18:33:10.29491+02:00",
+		"is_completed": true,
+		"priority": 3,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-19T21:12:39.487465567+02:00",
+		"uuid": "2dac3941-435e-4daf-a7bf-f07ca5e90131"
+	},
+	{
+		"created_at": "2025-09-09T18:33:10.29491+02:00",
+		"description": "Perform a code review for a colleague",
+		"due_date": "2025-09-26T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-23T13:36:48.47188881+02:00",
+		"uuid": "cbd78e8b-ef48-48b9-903c-7d5779216a56"
+	},
+	{
+		"created_at": "2025-09-24T18:33:10.29491+02:00",
+		"description": "Clean up dead or obsolete code",
+		"due_date": "2025-11-16T18:33:10.29491+01:00",
+		"is_completed": true,
+		"priority": 3,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-25T18:15:51.283713383+02:00",
+		"uuid": "c3ee06bd-fca3-48c6-8a30-cc2411042b03"
+	},
+	{
+		"created_at": "2025-09-08T18:33:10.29491+02:00",
+		"description": "Configure a CI/CD pipeline for automatic deployment",
+		"due_date": "2025-09-22T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-25T12:30:57.897827623+02:00",
+		"uuid": "0e05d323-e56e-4051-8397-c72006f76fb3"
+	},
+	{
+		"created_at": "2025-09-29T18:33:10.29491+02:00",
+		"description": "Configure a CI/CD pipeline for automatic deployment",
+		"due_date": "2025-10-15T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Collaboration"
+		],
+		"updated_at": "2025-10-01T23:12:16.524109992+02:00",
+		"uuid": "cfbc5207-0c8b-422a-b287-36a7a08bd1b3"
+	},
+	{
+		"created_at": "2025-09-12T18:33:10.29491+02:00",
+		"description": "Update a dependency to the latest stable version",
+		"due_date": "2025-11-02T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-10-02T09:25:50.847664403+02:00",
+		"uuid": "ae1544cd-f412-49c0-a4af-afea467f2e5a"
+	},
+	{
+		"created_at": "2025-09-07T18:33:10.29491+02:00",
+		"description": "Perform load/performance tests on an API",
+		"due_date": "2025-09-19T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-09-21T02:55:51.174164618+02:00",
+		"uuid": "07b9c724-7ac4-4db9-9596-13ae0af0ad86"
+	},
+	{
+		"created_at": "2025-09-21T18:33:10.29491+02:00",
+		"description": "Answer questions from a teammate",
+		"due_date": "2025-10-08T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-29T15:48:47.771170206+02:00",
+		"uuid": "41085b65-ac9c-40ff-84fb-94b9fa7c1b50"
+	},
+	{
+		"created_at": "2025-09-30T18:33:10.29491+02:00",
+		"description": "Review logs to detect recurring errors",
+		"due_date": "2025-10-27T18:33:10.29491+01:00",
+		"is_completed": true,
+		"priority": 1,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-10-01T19:11:02.359085501+02:00",
+		"uuid": "6e5c09af-2523-4649-9bfc-47e3fcea7115"
+	},
+	{
+		"created_at": "2025-09-30T18:33:10.29491+02:00",
+		"description": "Review logs to detect recurring errors",
+		"due_date": "2025-11-16T18:33:10.29491+01:00",
+		"is_completed": true,
+		"priority": 2,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-10-01T13:03:32.149666907+02:00",
+		"uuid": "bc7bc003-faa4-4321-b0b1-b7e3ad9457e7"
+	},
+	{
+		"created_at": "2025-10-01T18:33:10.29491+02:00",
+		"description": "Update user-facing documentation",
+		"due_date": "2025-11-05T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-10-02T16:43:31.274810892+02:00",
+		"uuid": "d7e1dc4e-b8ae-4799-865a-7e97447376c8"
+	},
+	{
+		"created_at": "2025-09-19T18:33:10.29491+02:00",
+		"description": "Clean up dead or obsolete code",
+		"due_date": "2025-09-23T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-09-22T01:46:05.722395701+02:00",
+		"uuid": "7ca6bff1-c372-4062-afb3-ff9980e12d0a"
+	},
+	{
+		"created_at": "2025-09-18T18:33:10.29491+02:00",
+		"description": "Fix a bug reported in the tracker",
+		"due_date": "2025-09-28T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-10-01T20:42:05.196610774+02:00",
+		"uuid": "10e45a32-8f73-4831-8c74-a308eef13645"
+	},
+	{
+		"created_at": "2025-09-29T18:33:10.29491+02:00",
+		"description": "Fix a bug reported in the tracker",
+		"due_date": "2025-11-18T18:33:10.29491+01:00",
+		"is_completed": true,
+		"priority": 1,
+		"tags": [
+			"Collaboration"
+		],
+		"updated_at": "2025-10-01T01:54:31.423072866+02:00",
+		"uuid": "932e52e1-7ef9-46ef-9a7c-0a0beb8fa166"
+	},
+	{
+		"created_at": "2025-09-25T18:33:10.29491+02:00",
+		"description": "Update user-facing documentation",
+		"due_date": "2025-10-09T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-27T07:32:19.757305564+02:00",
+		"uuid": "3a6c5bd5-904d-456a-abc4-70882f5ca103"
+	},
+	{
+		"created_at": "2025-09-21T18:33:10.29491+02:00",
+		"description": "Perform a code review for a colleague",
+		"due_date": "2025-10-13T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Collaboration"
+		],
+		"updated_at": "2025-10-01T18:34:28.991895735+02:00",
+		"uuid": "c1f5d278-315a-482f-8446-ed063acdd5ec"
+	},
+	{
+		"created_at": "2025-09-20T18:33:10.29491+02:00",
+		"description": "Migrate part of the codebase to a new framework/library",
+		"due_date": "2025-10-15T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Documentation"
+		],
+		"updated_at": "2025-09-23T02:32:11.075426202+02:00",
+		"uuid": "012ef864-8f46-432d-a5a5-58917581d4b4"
+	},
+	{
+		"created_at": "2025-09-24T18:33:10.29491+02:00",
+		"description": "Apply a critical security patch",
+		"due_date": "2025-11-19T18:33:10.29491+01:00",
+		"is_completed": true,
+		"priority": 3,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-30T13:44:03.6210257+02:00",
+		"uuid": "b905ed4f-c3c6-40ac-b730-bb65112bc7b0"
+	},
+	{
+		"created_at": "2025-10-01T18:33:10.29491+02:00",
+		"description": "Perform a code review for a colleague",
+		"due_date": "2025-10-07T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-10-02T09:08:54.313025923+02:00",
+		"uuid": "7bf1dd83-5608-47ee-aa8e-5ba839aa18f2"
+	},
+	{
+		"created_at": "2025-09-10T18:33:10.29491+02:00",
+		"description": "Update a dependency to the latest stable version",
+		"due_date": "2025-09-29T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-13T17:30:11.99647962+02:00",
+		"uuid": "70756183-7d78-43cc-91d1-90ff45aade22"
+	},
+	{
+		"created_at": "2025-09-03T18:33:10.29491+02:00",
+		"description": "Write technical documentation for a new API",
+		"due_date": "2025-10-07T18:33:10.29491+02:00",
+		"is_completed": true,
+		"priority": 3,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-21T00:08:36.059542356+02:00",
+		"uuid": "2134ab7e-25fa-4349-8ecd-48179a51ebfb"
+	},
+	{
+		"created_at": "2025-09-10T18:33:10.29491+02:00",
+		"description": "Document a technical decision in the internal wiki",
+		"due_date": "2025-10-25T18:33:10.29491+02:00",
+		"is_completed": true,
+		"priority": 1,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-20T23:30:30.778899895+02:00",
+		"uuid": "3ca6713b-86f0-404e-8bae-fd4ef37cdb5a"
+	},
+	{
+		"created_at": "2025-09-18T18:33:10.29491+02:00",
+		"description": "Write technical documentation for a new API",
+		"due_date": "2025-11-04T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Collaboration"
+		],
+		"updated_at": "2025-09-25T16:57:16.639108402+02:00",
+		"uuid": "60ebc887-0ff3-45d2-8fdd-8c51a41c9760"
+	},
+	{
+		"created_at": "2025-09-05T18:33:10.29491+02:00",
+		"description": "Implement a new feature according to specifications",
+		"due_date": "2025-09-27T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Documentation"
+		],
+		"updated_at": "2025-09-26T21:01:13.827085693+02:00",
+		"uuid": "baf962f1-c84a-4df0-afd2-73f6dc656855"
+	},
+	{
+		"created_at": "2025-09-30T18:33:10.29491+02:00",
+		"description": "Add input validation for an API",
+		"due_date": "2025-11-12T18:33:10.29491+01:00",
+		"is_completed": true,
+		"priority": 1,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-10-01T04:25:34.936919087+02:00",
+		"uuid": "f346eb89-d3c9-4f0d-84bb-9e8eb0ad639f"
+	},
+	{
+		"created_at": "2025-09-15T18:33:10.29491+02:00",
+		"description": "Write technical documentation for a new API",
+		"due_date": "2025-09-17T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-10-01T05:23:22.92307878+02:00",
+		"uuid": "33f4d237-4506-4035-a59c-b57cbff89caa"
+	},
+	{
+		"created_at": "2025-09-27T18:33:10.29491+02:00",
+		"description": "Answer questions from a teammate",
+		"due_date": "2025-11-21T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-10-01T17:54:36.736656294+02:00",
+		"uuid": "23aa5f29-8719-44b4-97e0-8ff47c0fcea6"
+	},
+	{
+		"created_at": "2025-09-29T18:33:10.29491+02:00",
+		"description": "Document a technical decision in the internal wiki",
+		"due_date": "2025-10-02T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-30T07:08:54.562420812+02:00",
+		"uuid": "56f3f892-86d3-48b0-9a2a-afb42aeded36"
+	},
+	{
+		"created_at": "2025-09-22T18:33:10.29491+02:00",
+		"description": "Prepare a demo for a new feature",
+		"due_date": "2025-11-17T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-10-01T17:29:29.518492094+02:00",
+		"uuid": "2cd19ce3-8eba-4255-b6f5-ccd04b845a29"
+	},
+	{
+		"created_at": "2025-09-03T18:33:10.29491+02:00",
+		"description": "Perform a code review for a colleague",
+		"due_date": "2025-09-30T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-17T01:48:14.511483842+02:00",
+		"uuid": "bca89a7b-69d5-47d0-9e2d-b22ef0163e5e"
+	},
+	{
+		"created_at": "2025-09-23T18:33:10.29491+02:00",
+		"description": "Migrate part of the codebase to a new framework/library",
+		"due_date": "2025-10-21T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-28T04:27:15.540011014+02:00",
+		"uuid": "936c0bd7-fde0-43dd-aaf6-f7ec6982c8d9"
+	},
+	{
+		"created_at": "2025-10-02T18:33:10.29491+02:00",
+		"description": "Answer questions from a teammate",
+		"due_date": "2025-10-26T18:33:10.29491+01:00",
+		"is_completed": true,
+		"priority": 3,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-10-02T18:33:10.29491+02:00",
+		"uuid": "b2ce5cd5-b165-4dc6-801d-ee0528e4a44a"
+	},
+	{
+		"created_at": "2025-09-09T18:33:10.29491+02:00",
+		"description": "Monitor resource usage (CPU, memory, disk)",
+		"due_date": "2025-09-25T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-09-14T01:03:26.631089735+02:00",
+		"uuid": "837e1486-c78d-41e9-94cc-04de7df6a5c9"
+	},
+	{
+		"created_at": "2025-09-23T18:33:10.29491+02:00",
+		"description": "Answer questions from a teammate",
+		"due_date": "2025-10-30T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-10-01T04:40:02.653074893+02:00",
+		"uuid": "dee6a13f-0790-43b3-b2d5-decdfeed5c01"
+	},
+	{
+		"created_at": "2025-09-14T18:33:10.29491+02:00",
+		"description": "Perform load/performance tests on an API",
+		"due_date": "2025-10-11T18:33:10.29491+02:00",
+		"is_completed": true,
+		"priority": 1,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-25T21:01:40.466503394+02:00",
+		"uuid": "692bafb6-5262-4e91-a0ce-42f89a1723bb"
+	},
+	{
+		"created_at": "2025-09-10T18:33:10.29491+02:00",
+		"description": "Migrate part of the codebase to a new framework/library",
+		"due_date": "2025-10-08T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-09-27T18:19:25.670122894+02:00",
+		"uuid": "d7099236-fb32-47c4-b55e-a823b3175e0e"
+	},
+	{
+		"created_at": "2025-09-06T18:33:10.29491+02:00",
+		"description": "Configure a CI/CD pipeline for automatic deployment",
+		"due_date": "2025-10-14T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-30T19:55:48.445664962+02:00",
+		"uuid": "8d1d2fda-9a50-4178-aff0-72173cc13c62"
+	},
+	{
+		"created_at": "2025-09-29T18:33:10.29491+02:00",
+		"description": "Perform a code review for a colleague",
+		"due_date": "2025-11-26T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-10-01T00:00:19.97138513+02:00",
+		"uuid": "fdaa2307-be5d-4d7a-8118-66e7ada66bd0"
+	},
+	{
+		"created_at": "2025-09-21T18:33:10.29491+02:00",
+		"description": "Write technical documentation for a new API",
+		"due_date": "2025-09-30T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-22T17:40:45.932413927+02:00",
+		"uuid": "7505e8e7-768e-4fcd-8f19-c84fe52cf4bc"
+	},
+	{
+		"created_at": "2025-09-20T18:33:10.29491+02:00",
+		"description": "Apply a critical security patch",
+		"due_date": "2025-11-09T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-10-01T21:22:50.940539671+02:00",
+		"uuid": "ad267a3e-03f9-430c-909e-127235094a37"
+	},
+	{
+		"created_at": "2025-09-25T18:33:10.29491+02:00",
+		"description": "Participate in sprint planning",
+		"due_date": "2025-10-15T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-09-28T13:59:58.676080474+02:00",
+		"uuid": "70c06afd-5b31-4c77-bbe4-03886346b180"
+	},
+	{
+		"created_at": "2025-09-21T18:33:10.29491+02:00",
+		"description": "Review logs to detect recurring errors",
+		"due_date": "2025-11-05T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Documentation"
+		],
+		"updated_at": "2025-09-28T04:35:17.319483753+02:00",
+		"uuid": "853fb490-3aa6-4e57-9ece-6ed93f47c838"
+	},
+	{
+		"created_at": "2025-09-07T18:33:10.29491+02:00",
+		"description": "Perform load/performance tests on an API",
+		"due_date": "2025-10-26T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-18T06:56:14.230450614+02:00",
+		"uuid": "a72a090b-93c7-40b8-b48b-55b71eaf4263"
+	},
+	{
+		"created_at": "2025-09-15T18:33:10.29491+02:00",
+		"description": "Migrate part of the codebase to a new framework/library",
+		"due_date": "2025-11-04T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-17T15:54:36.235915383+02:00",
+		"uuid": "94d10269-993f-470a-8082-2e271e4a04e0"
+	},
+	{
+		"created_at": "2025-09-30T18:33:10.29491+02:00",
+		"description": "Prepare a demo for a new feature",
+		"due_date": "2025-11-06T18:33:10.29491+01:00",
+		"is_completed": true,
+		"priority": 2,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-10-02T14:48:55.151981555+02:00",
+		"uuid": "ea79a1c2-f46c-47dd-8146-7ac1cd5492f6"
+	},
+	{
+		"created_at": "2025-09-22T18:33:10.29491+02:00",
+		"description": "Write unit tests for a new function",
+		"due_date": "2025-11-14T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-29T04:52:03.177066117+02:00",
+		"uuid": "d96bb09f-0eb0-40aa-bc3c-7e9398096623"
+	},
+	{
+		"created_at": "2025-10-01T18:33:10.29491+02:00",
+		"description": "Perform a code review for a colleague",
+		"due_date": "2025-11-28T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Collaboration"
+		],
+		"updated_at": "2025-10-02T16:02:13.071055537+02:00",
+		"uuid": "78bf299d-67c1-4d56-a6e5-a98dfb48fbe2"
+	},
+	{
+		"created_at": "2025-09-12T18:33:10.29491+02:00",
+		"description": "Perform a code review for a colleague",
+		"due_date": "2025-09-28T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-09-28T06:20:54.109179276+02:00",
+		"uuid": "9d3d9b48-1561-49d1-912d-1c2edcf761eb"
+	},
+	{
+		"created_at": "2025-09-27T18:33:10.29491+02:00",
+		"description": "Migrate part of the codebase to a new framework/library",
+		"due_date": "2025-10-24T18:33:10.29491+02:00",
+		"is_completed": true,
+		"priority": 1,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-10-01T06:05:14.056770814+02:00",
+		"uuid": "e493095a-a7f5-4505-bbc5-6c37daa0846f"
+	},
+	{
+		"created_at": "2025-09-14T18:33:10.29491+02:00",
+		"description": "Increase test coverage in a low-covered module",
+		"due_date": "2025-10-20T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 2,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-27T00:06:28.901153533+02:00",
+		"uuid": "fa7c9e4a-f0c8-48e7-b742-b774402f420f"
+	},
+	{
+		"created_at": "2025-09-08T18:33:10.29491+02:00",
+		"description": "Apply a critical security patch",
+		"due_date": "2025-10-31T18:33:10.29491+01:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Maintenance"
+		],
+		"updated_at": "2025-09-30T23:55:18.789879604+02:00",
+		"uuid": "76ba66a2-a358-42ea-9e7d-9585ce434c93"
+	},
+	{
+		"created_at": "2025-09-07T18:33:10.29491+02:00",
+		"description": "Document a technical decision in the internal wiki",
+		"due_date": "2025-10-20T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 1,
+		"tags": [
+			"Quality \u0026 Tests"
+		],
+		"updated_at": "2025-10-01T02:02:28.409297586+02:00",
+		"uuid": "97e7e436-3746-4f74-a977-f6a4656d269e"
+	},
+	{
+		"created_at": "2025-09-13T18:33:10.29491+02:00",
+		"description": "Fix a bug reported in the tracker",
+		"due_date": "2025-10-11T18:33:10.29491+02:00",
+		"is_completed": false,
+		"priority": 3,
+		"tags": [
+			"Development"
+		],
+		"updated_at": "2025-10-01T04:25:20.548162336+02:00",
+		"uuid": "b17e05cb-ecaa-4276-9309-d10da95c1f3a"
+	}
+]
