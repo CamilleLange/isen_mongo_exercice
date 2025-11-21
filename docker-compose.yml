@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:latest
+    container_name: isen-exo-mongo
+    restart: always
+    ports:
+      - "27017:27017"
+    environment:
+      # These variables are sourced from the .env file
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_ROOT_USER}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_ROOT_PASSWORD}
+      MONGO_INITDB_DATABASE: ${MONGO_DATABASE}
+    volumes:
+      # This volume persists the database data
+      - mongo-data:/data/db
+      # This volume mounts the initialization script
+      - ./mongo-init:/docker-entrypoint-initdb.d
+      # This volume mounts the JSON data files for the init script to use
+      - ./data:/data/json-import
+    networks:
+      - isen-exo
+
+volumes:
+  mongo-data:
+    driver: local
+
+networks:
+  isen-exo:
+    driver: bridge
