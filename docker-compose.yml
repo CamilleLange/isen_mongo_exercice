@@ -16,7 +16,7 @@ services:
       # This volume persists the database data
       - mongo-data:/data/db
       # This volume mounts the initialization script
-      - ./mongo-init:/docker-entrypoint-initdb.d
+      - ./mongo-init/init.sh:/docker-entrypoint-initdb.d/init.sh
       # This volume mounts the JSON data files for the init script to use
       - ./data:/data/json-import
     networks:
