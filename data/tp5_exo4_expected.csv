@@ -1,0 +1,11 @@
+order_number,order_uuid,label,quantity,address,email
+1,"00000143-f0fd-455d-a95f-e52a2ba9a710","BAB-PAP-01",8887,"2 rue du Château 67000 Strasbourg","t.blanc@laposte.net"
+2,"000002a5-dde5-4bd8-bce2-e61e5a83aa5e","BRD-MUFF-01",2157,"10 boulevard National 13001 Marseille","franck.garnier@mail.com"
+3,"00000e25-e0a1-4a40-afdf-debf64baf7f5","COND-SAL-01",7132,"2 rue du Château 67000 Strasbourg","n.lemoine@yahoo.com"
+4,"00000e5e-2dd2-499c-9672-4537a8f30371","BEV-TEA-01",5791,"7 rue du Moulin 34000 Montpellier","hugo.poitou@mail.com"
+5,"00001419-2dc4-4d20-9321-b0dd13003515","HYG-SAV-01",7784,"10 boulevard National 13001 Marseille","marc.perrin@gmail.com"
+6,"00002865-4f07-429b-9e29-9c3747096582","BEV-JUS-01",1872,"2 rue du Château 67000 Strasbourg","anais.boutin@gmail.com"
+7,"00004bf9-c6cc-490f-a5b1-edbdae9b851b","ALC-WIN-01",6523,"40 allée des Platanes 67000 Strasbourg","t.blanc@laposte.net"
+8,"00005871-dd7a-42b1-b0d6-833cef03258f","ICE-CRM-01",938,"19 rue de la Paix 06000 Nice","emilie.fontaine@outlook.com"
+9,"00007925-1ca1-4f59-b38b-fbf1e0f871a2","PET-DOG-01",9275,"12 rue des Remparts 21000 Dijon","ines.dumas@wanadoo.fr"
+10,"0000968a-28b2-4ac0-90dd-95445d71dabd","FRU-APL-01",4572,"55 chemin des Oliviers 34000 Montpellier","d.roux@outlook.com"
