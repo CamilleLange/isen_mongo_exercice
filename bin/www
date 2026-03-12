@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+/**
+ * Application entry point, invoked by `npm start`.
+ */
+
+require('../app');

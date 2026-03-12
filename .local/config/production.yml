@@ -1,0 +1,15 @@
+# Production configuration for the application
+
+server:
+  port: 8042
+  timeoutSeconds: 5
+  logLevel: 'info'
+  
+database:
+  type: 'mongodb'
+  mongodb:
+    host: 'mongodb'
+    port: 27017
+    user: 'user'
+    password: 'pass'
+    name: 'todolist'

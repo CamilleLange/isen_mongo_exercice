@@ -1,0 +1,21 @@
+# Default configuration (development)
+
+server:
+  port: 3000
+  timeoutSeconds: 30
+  logLevel: 'debug'
+
+database:
+  type: 'postgresql'  # Switch to 'mongodb' to use MongoDB instead
+  postgres:
+    host: 'localhost'
+    port: 5432
+    user: 'user'
+    password: 'pass'
+    name: 'todolist'
+  mongodb:
+    host: 'localhost'
+    port: 27017
+    user: 'user'
+    password: 'pass'
+    name: 'todolist'

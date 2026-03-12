@@ -1,31 +1,83 @@
 version: '3.8'
 
 services:
-  mongo:
-    image: mongo:latest
-    container_name: isen-exo-mongo
-    restart: always
+  # --- Application ---
+  todo-list:
+    build: .
+    container_name: todo-list
     ports:
-      - "27017:27017"
-    environment:
-      # These variables are sourced from the .env file
-      MONGO_INITDB_ROOT_USERNAME: ${MONGO_ROOT_USER}
-      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_ROOT_PASSWORD}
-      MONGO_INITDB_DATABASE: ${MONGO_DATABASE}
-    volumes:
-      # This volume persists the database data
-      - mongo-data:/data/db
-      # This volume mounts the initialization script
-      - ./mongo-init/init.sh:/docker-entrypoint-initdb.d/init.sh
-      # This volume mounts the JSON data files for the init script to use
-      - ./data:/data/json-import
+      - "8042:8042"
+    depends_on:
+      - postgresql
+      - mongodb
     networks:
-      - isen-exo
+      - todo_network
+    restart: unless-stopped
 
-volumes:
-  mongo-data:
-    driver: local
+  # --- PostgreSQL ---
+  postgresql:
+    image: postgres:13
+    container_name: postgresql
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=pass
+      - POSTGRES_DB=todolist
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+      # Scripts placed in /docker-entrypoint-initdb.d are executed automatically on first startup.
+      - ./.local/postgresql:/docker-entrypoint-initdb.d
+    networks:
+      - todo_network
+    restart: unless-stopped
+
+  adminer:
+    image: adminer
+    container_name: adminer
+    ports:
+      - "8080:8080"
+    networks:
+      - todo_network
+    depends_on:
+      - postgresql
+    restart: unless-stopped
+
+  # --- MongoDB ---
+  mongodb:
+    image: mongo:7
+    container_name: mongodb
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=user
+      - MONGO_INITDB_ROOT_PASSWORD=pass
+      - MONGO_INITDB_DATABASE=todolist
+    volumes:
+      - mongo-data:/data/db
+      # Scripts placed in /docker-entrypoint-initdb.d are executed automatically on first startup.
+      - ./.local/mongodb:/docker-entrypoint-initdb.d
+    networks:
+      - todo_network
+    restart: unless-stopped
+
+  mongo-express:
+    image: mongo-express
+    container_name: mongo-express
+    ports:
+      - "8081:8081"
+    environment:
+      - ME_CONFIG_MONGODB_ADMINUSERNAME=user
+      - ME_CONFIG_MONGODB_ADMINPASSWORD=pass
+      - ME_CONFIG_MONGODB_URL=mongodb://user:pass@mongodb:27017/
+    networks:
+      - todo_network
+    depends_on:
+      - mongodb
+    restart: unless-stopped
 
 networks:
-  isen-exo:
+  todo_network:
     driver: bridge
+
+volumes:
+  postgres-data:
+    driver: local
+  mongo-data:
+    driver: local
